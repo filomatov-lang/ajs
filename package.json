@@ -1,0 +1,20 @@
+{
+  "name": "@filomatov-lang/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/filomatov-lang/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/filomatov-lang/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filomatov-lang/ajs.git"
+  },
+  "license": "ISC",
+  "author": "Andrei",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
